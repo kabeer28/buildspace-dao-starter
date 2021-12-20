@@ -3,8 +3,8 @@ body {
   margin: 0;
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  -moz-osx-font-smoothing: grayscale;;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,8,106,1) 38%, rgba(30,9,119,1) 50%, rgba(149,0,0,1) 100%);
   color: #fff;
   overflow-x: hidden;
 }
